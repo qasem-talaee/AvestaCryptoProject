@@ -1,6 +1,6 @@
 # Cryptocurrency Quote Converter API
 
-This is a .NET Core Web API that accepts a cryptocurrency code (e.g., BTC) and returns its current exchange rate in five different fiat currencies
+This is a .NET Core Web API that accepts a cryptocurrency code (e.g., BTC) and returns its current exchange rate in some different fiat currencies
 
 The API URL is:
 ```
